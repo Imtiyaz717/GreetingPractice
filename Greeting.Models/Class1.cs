@@ -11,5 +11,7 @@ namespace Greeting.Models
         public int MyProperty { get; set; }
 
         public string MyProperty1 { get; set; }
+
+        public DateTime MyProperty2 { get; set; }
     }
 }
